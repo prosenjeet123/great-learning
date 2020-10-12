@@ -1,12 +1,23 @@
 {
   "name": "greatlearn",
   "version": "1.0.0",
-  "description": "",
+  "description": "Forinterview",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "ProsenjeetPaul",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prosenjeet123/great-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prosenjeet123/great-learning/issues"
+  },
+  "homepage": "https://github.com/prosenjeet123/great-learning#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
