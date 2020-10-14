@@ -1,6 +1,6 @@
 # GreatLearning.com Interview challenge
 
-The complete html has been created on vanilla css and javascript (No plugins) has been used. All the bonus points has been marked done in this project.
+The complete html has been created on vanilla css and pure javascript (No plugins) has been used. All the bonus points has been marked done in this project.
 The slider which is made on purely javascript has some mobile issues which will be fixed in the future release because i haven't got the time to debug the issue and make it work.
 However it's working completely fine in web.
 
