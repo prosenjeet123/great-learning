@@ -25,6 +25,11 @@ For more info about [parceljs](https://parceljs.org/getting_started.html)
 npm install -g parcel-bundler
 ```
 
+Install the dependencies
+```bash
+npm i parcel-plugin-custom-dist-structure --save-dev
+```
+
 then to run in dev mode
 
 ```bash
