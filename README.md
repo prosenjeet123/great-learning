@@ -1,8 +1,12 @@
 # GreatLearning.com Interview challenge
 
-The complete html has been created on vanilla css and pure javascript (No plugins) has been used. All the bonus points has been marked done in this project.
-The slider which is made on purely javascript has some mobile issues which will be fixed in the future release because i haven't got the time to debug the issue and make it work.
+The complete html has been created with vanilla css ,pure javascript (No plugins) and saas followed with BEM structure. All the bonus points has been marked done in this project.
+The slider which is made on purely javascript has some mobile issues on some IOS phones which will be fixed in the future release because i haven't got the time to debug the issue and make it work.
 However it's working completely fine in web.
+
+This project has been made with the best of my knowledge. I have tried to improve the sharpness and clarity of the text,icons and images by using only html entity codes and google fonts to fulfill the logo and icons.
+The script part has been written in a organized way along with the comments for better readability.
+This project has been made within 2 days of time and day night hardwork. 
 
 Preview:
 
