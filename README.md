@@ -5,9 +5,12 @@ The slider which is made on purely javascript has some mobile issues which will 
 However it's working completely fine in web.
 
 Preview:
-![alt text](https://i.ibb.co/2S4hfCz/download.png")
+
+![alt text](https://i.ibb.co/2S4hfCz/download.png)
+
 
 Live Preview:
+
 [Click here](https://greatlearning-6596c.web.app/)
 
 > **This project has been bundled using parceljs so make sure you install it if you are going to run in dev version.
