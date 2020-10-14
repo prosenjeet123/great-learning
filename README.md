@@ -4,7 +4,8 @@ The complete html has been created on vanilla css and javascript (No plugins) ha
 The slider which is made on purely javascript has some mobile issues which will be fixed in the future release because i haven't got the time to debug the issue and make it work.
 However it's working completely fine in web.
 
-Live preview:
+Preview:
+![alt text](https://i.ibb.co/2S4hfCz/download.png")
 
 > **This project has been bundled using parceljs so make sure you install it if you are going to run in dev version.
 > Otherwise simply open the dist folder and run the index.html file**
